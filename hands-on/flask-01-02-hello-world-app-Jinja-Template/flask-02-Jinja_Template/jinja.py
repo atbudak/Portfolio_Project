@@ -12,4 +12,5 @@ def number():
     return render_template('body.html', num1=var1, num2=var2, multiplication=var1*var2)
 
 if __name__=="__main__":
-    app.run(debug=True)
+    app.run(debug=True, port=2000)
+    # app.run(host='0.0.0.0', port=80)
