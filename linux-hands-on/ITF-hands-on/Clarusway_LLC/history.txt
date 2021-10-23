@@ -1,0 +1,163 @@
+Part-1
+  931  mkdir Clarusway_LLC
+  932  cd Clarusway_LLC/
+  933  ls
+  934  pwd
+  935  ls -al
+  936  cd -
+  937  ls -al
+  938  cd -
+  939  cls
+  940  clr
+  941  clear
+  942  mkdir Full_Stack AWS_Devops Data_Science
+  943  ls
+  944  cd Full_Stack/
+  945  ls -a
+  946  ls -al
+  947  mkdir Frontend Backend
+  948  cd Frontend/
+  949  ls -al
+  950  touch HTML CSS JS
+  951  LS
+  952  ls
+  953  ll
+  954  <html>
+  955  <body>
+  956  <center><img
+  957  src="https://lms.clarusway.com/pluginfile.php/1/core_admin/logo/0x200/1628491244/C
+LARUSWAY.png" alt="Image not found">
+  958  <h1>Clarusway</h1>
+  959  <p>Clarusway Team was here.</p></center>
+  960  </body>
+  961  cat HTML
+  962  clear
+  963  vi HTML
+  964  nano
+  965  nano HTML
+  966  cat HTML
+  967  cd ..
+  968  ls
+  969  cd Backend/
+  970  touch Django MySQL CWFramework Python
+  971  ls
+  972  nano
+  973  ls
+  974  cat MySQL 
+  975  cd ../../
+  976  cd AWS_Devops/
+  977  ls -al
+  978  pwd
+  979  mkdir AWS Devops
+  980  ls
+  981  cd AWS/
+  982  touch IAM EC2 CF
+  983  ls
+  984  cd ../Devops/
+  985  touch Docker Kubernetes Jenkins Ansible CWOps
+  986  ls
+  987  cd ../../Data_Science/
+  988  ls -al
+  989  touch Data_Analysis Machine_Learning
+  990  ls
+  991  cd Data_Analysis
+  992  ls
+  993  rm Data_Analysis Machine_Learning 
+  994  ls
+  995  mkdir Data_Analysis Machine_Learning
+  996  ls
+  997  cd Data_Analysis/
+  998  touch Pandas Tableau
+  999  ls
+ 1000  cd ../Machine_Learning/
+ 1001  ls -al
+ 1002  touch Tenserflow CWML
+ 1003  ls
+ 1004  cd ../../Full_Stack/Frontend/
+ 1005  ls -al
+ 1006  cp JS ../Backend/
+ 1007  cd ../Backend/
+ 1008  ls
+ 1009  echo "print("I will become an IT master")" > Python 
+ 1010  ls
+ 1011  cat Python 
+ 1012  nimo Python 
+ 1013  mimo Python 
+ 1014  nano Python 
+ 1015  cat Python 
+ 1016  ls
+ 1017  cp Python ../../Data_Science/Data_Analysis/ ../../Data_Science/Machine_Learning/
+ 1018  cp Python ../../Data_Science/Data_Analysis/
+ 1019  cp Python ../../Data_Science/Machine_Learning/
+ 1020  cd ../../Data_Science/
+ 1021  ls
+ 1022  cd Data_Analysis/
+ 1023  ls
+ 1024  cd -
+ 1025  cd Machine_Learning/
+ 1026  ls
+ 1027  ls -al
+ 1028  cp ../Data_Analysis/Pandas .
+ 1029  ls
+ 1030  chmod 600 CWML 
+ 1031  ls -al
+ 1032  chmod 660 CWML 
+ 1033  ls -al
+ 1034  chmod 660 ../../Full_Stack/Backend/CWFramework 
+ 1035  chmod 660 ../../AWS_Devops/Devops/CWOps 
+ 1036  cd ../../Full_Stack/Backend/
+ 1037  ls -al
+ 1038  cd ../../AWS_Devops/Devops/
+ 1039  ls -al
+ 1040  cd ../..
+ 1041  ls
+ 1042  tree
+ 1043  sudo apt update
+ 1044  tree
+ 1045  cd -
+ 1046  ls
+ 1047  mv CWops .CWops
+ 1048  ls
+ 1049  ls -al
+ 1050  cd -
+ 1051  tree
+ 1052  tree -a
+Part -2
+ 1053  mkdir Wildcards
+ 1054  cd Wildcards/
+ 1055  ls
+ 1056  touch createbackup.sh list.sh lspace.sh speaker.sh listopen.sh lost.sh rename-files.sh topprocs.sh users-{0..5}{1..9}.list users-{0..5}{1..9}.txt com{1..10}{x..z}
+ 1057  ls
+ 1058  ls l*
+ 1059  mkdir users-info
+ 1060  mv users-0* users-info\
+ 1061  cd users-info/
+ 1062  ls
+ 1063  cd -
+ 1064  ls l*st.sh
+ 1065  ls l$[abcdio].st.sh
+ 1066  ls l[abcdio].st.sh
+ 1067  ls l[abcdio]*st.sh
+ 1068  ls ??st*
+ 1069  ls [clst][io]?t*
+ 1070  ls [clst]io?t*
+ 1071  ls [clst][io]?t*
+Part -3
+ 1073  cd ..
+ 1074  mkdir Scripting
+ 1075  cd Scripting/
+ 1076  touch shell_script.sh
+ 1077  nano shell_script.sh 
+ 1078  mkdir empty_folders
+ 1079  ls
+ 1080  cat shell_script.sh 
+ 1081  mv empty_folders/ empty_folder/
+ 1082  ls
+ 1083  pwd
+ 1084  ./shell_script.sh
+ 1085  ll
+ 1086  chmod u+x shell_script.sh 
+ 1087  ll
+ 1088  ./shell_script.sh 
+ 1089  ll
+ 1090  history > history.txt
